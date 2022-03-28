@@ -1,2 +1,2 @@
 # HelloEthWorld
-A hello world level blockchain program in EVM.
+Programming my first smart contract using Truffle.
